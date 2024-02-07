@@ -8,19 +8,19 @@ Template:       twentytwentytwo
 */
 
 footer{
-	background:#f9f9f9;
+	background:#00b4d8;
 	color: black;
 }
 
 p {
-    color: rgb(28, 39, 132);
+    color: rgb(206, 206, 247);
 }
 
 h1 {
-    color: rgb(28, 39, 132);
+    color: rgb(254, 254, 255);
 }
 
 
 a {
-    color: rgb(28, 39, 132);
+    color: rgb(247, 247, 247);
 }
